@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suraj Sukumaran
+# - 👋 Hi, I’m Suraj Sukumaran
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently a Fresher Looking for Oppurtunities in Data Science Field
 - 💞️ I’m looking to collaborate on various Data Science Projects and people working in this field
@@ -15,7 +15,6 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
+  
 
 
