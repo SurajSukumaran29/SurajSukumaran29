@@ -26,6 +26,8 @@
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurajSukumaran29&theme=radical)
 
 #
+    
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SurajSukumaran29&theme=rogue)
 
   
 
