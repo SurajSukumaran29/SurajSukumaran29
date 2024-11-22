@@ -5,7 +5,6 @@
 - 📫 You can reach me at surajsukumaran292002@gmail.com
 - ⚡ Fun fact:  80% of data science work is spent just cleaning and organizing data before analysis even starts!
 
-<!---
-SurajSukumaran29/SurajSukumaran29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=flat&logo=tensorflow&logoColor=white)
+
