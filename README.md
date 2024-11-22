@@ -22,11 +22,10 @@
 
 
 #
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajSukumaran&show_icons=true&theme=radical)
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurajSukumaran&theme=radical)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajSukumaran29&show_icons=true&theme=radical)
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurajSukumaran29&theme=radical)
 
 #
-   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SurajSukumaran&theme=rogue)
 
   
 
