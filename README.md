@@ -27,35 +27,7 @@
 
 #
 
-    ### 🚀 About Me  
 ![Data Science GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
----
-
-### 🧠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 📊 Fun Visualizations
-![Data Visualization GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
----
-
-### 🔍 Machine Learning in Action
-![Machine Learning GIF](https://media.giphy.com/media/3o7aCUaOlA2h8ZGnWU/giphy.gif)
-
----
-
-### 🤖 Data Science Journey
-![Data Science GIF 2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
----
-
-### 🌟 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
 
 
