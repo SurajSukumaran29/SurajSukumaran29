@@ -26,8 +26,7 @@
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurajSukumaran&theme=radical)
 
 #
-   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://linkedin.com/in/SurajSukumaran)
-   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/SurajSukumaran)
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SurajSukumaran&theme=rogue)
 
   
 
