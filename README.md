@@ -13,3 +13,9 @@
    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
+
+
