@@ -37,7 +37,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=SurajSukumaran29&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajSukumaran29&theme=github-compact)
 
-   
+#
+![Trophies](https://github-profile-trophy.vercel.app/?username=SurajSukumaran29&theme=monokai&no-frame=true&row=2&column=4)
+![Gists](https://github-readme-stats.vercel.app/api/gist/SOmeFakeGistID?username=SurajSukumaran29&theme=tokyonight)
+
 
   
 
