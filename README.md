@@ -22,6 +22,10 @@
    ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-0078D7?style=for-the-badge&logo=deeplearningai&logoColor=white)
    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
    ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+   ![Apache Arrow Flight](https://img.shields.io/badge/Apache%20Arrow%20Flight-FF6600?style=for-the-badge&logo=apachearrow&logoColor=white)
+   ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 #
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajSukumaran29&show_icons=true&theme=radical)
