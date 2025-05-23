@@ -20,7 +20,8 @@
    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
    ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
    ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-0078D7?style=for-the-badge&logo=deeplearningai&logoColor=white)
-
+   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+   ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 #
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurajSukumaran29&show_icons=true&theme=radical)
