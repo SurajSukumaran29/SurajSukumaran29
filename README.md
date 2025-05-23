@@ -33,7 +33,9 @@
 
 #
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSukumaran29&layout=compact&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=SurajSukumaran29&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SurajSukumaran29&theme=github-compact)
 
    
 
