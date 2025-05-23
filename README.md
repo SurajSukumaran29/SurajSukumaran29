@@ -39,7 +39,7 @@
 
 #
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SurajSukumaran29&theme=monokai&no-frame=true&row=2&column=4)
-![Gists](https://github-readme-stats.vercel.app/api/gist/SOmeFakeGistID?username=SurajSukumaran29&theme=tokyonight)
+
 
 
   
